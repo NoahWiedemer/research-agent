@@ -1,0 +1,5 @@
+python-dotenv
+google-search-results
+crawl4ai
+langchain-openai
+langchain-core
